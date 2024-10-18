@@ -1,9 +1,9 @@
 # API Key
-#TMPCookie = 'tenant=jwpub; .AspNetCore.Antiforgery.oat9ytu81fY=CfDJ8MsO7lryrVZPqNJxro-AmhTlnv4fHIh6NA0pTTp4EAZnxFV40Ks5fIGObfT7MEDwIUXvk24t-Iy1f6ct6S5-mIiFTZ-8fFeBC0qOaVcc8qTu61oTZV1rHmfbF-HwImgVWPJe7HQhp3-0isjNl7JSHTk; XSRF-TOKEN=CfDJ8MsO7lryrVZPqNJxro-AmhQfdoHozDSJCt0ePoh17eiogoZ-wP6lvbQ3rEGYNk5ojW4WEmeyUpC3uOjAEQqnLBn0TiFrT2vdChDCUhl2KM8uszr3uHsOaL-vbbYq8RlJVmPU7AuPcYX7yEyu8kleUWN-tVDk2XFX2W6_QTtia6sjSIHebIfc8BFKw3Sm7ZXuWA; .AspNetCore.Cookies=CfDJ8MsO7lryrVZPqNJxro-AmhRm7GF9AtSpBKj-ao4SPJHTqIc7SNSMK97iMu02D20e2ldzumvqMwB-BtrIJGsg8xDNJnOedr2rqpGDBLyIHbpoKBSayF4U3QXo_KAmys-wEde9IhbDXLqNWWfS3IfbaiTqOaWsc1YxY_Ot_WAV5GFfpGHVo8znG38RFsvCnv1e2O47Grf0OepI3nGxjFqzyDLf1IXWekE4xNiOGuu95cfTU3CqQ48PaCsetN0zf2b2QYp0U3lwRYn1Gcy_KDkU5_dTD7ekqOmGmZuf98JGTNvC2mf0YdjfIU7Ke3oDW0pEng; cdh.session.expiry=1725975118; legalNoticesClient-accepted-notice%3Acookie-consent=1; cookieConsent-STRICTLY_NECESSARY=true; cookieConsent-FUNCTIONAL=false; cookieConsent-DIAGNOSTIC=false; cookieConsent-USAGE=false'
-#TMPToken = 'CfDJ8MsO7lryrVZPqNJxro-AmhQfdoHozDSJCt0ePoh17eiogoZ-wP6lvbQ3rEGYNk5ojW4WEmeyUpC3uOjAEQqnLBn0TiFrT2vdChDCUhl2KM8uszr3uHsOaL-vbbYq8RlJVmPU7AuPcYX7yEyu8kleUWN-tVDk2XFX2W6_QTtia6sjSIHebIfc8BFKw3Sm7ZXuWA'
-ANTIFORGERY = 'CfDJ8FTI5fBGZrNJhgnOctpPcNpreMdsyva6eGxuy9kXYk03X8w8iaPikuTVkj4-JqlaPz-bApS3rRGjxzydWNPXNhYWkqQubwWIx6ke_shgCTuoV69MJR54uPgTT34bG9gkSbOwyxxpVOf_zSy4-wsaQq4'
-COOKIES = 'CfDJ8FTI5fBGZrNJhgnOctpPcNpD3aan7v672LM8I1J4cZp2VaX9-I-Om4V8XesnX42jnmtPPdSMwvgv-E-aKsAV__cxr4AeZD9lT53dof_0IxM800kOmVuUKE0oMqBqwROVM7BWot5rODUna9tzd-meSl0kVegjWl97M8muFwU9Pynas_xyNaayj6X_H38Ct_aSuel2cHtlfuqcEqr0x5_rOIdBgR4s_JC-rg3nLFwxV2ey9FVb1DXZImCEcRJfaF2jtTXRim0Woh3zgN-PQrZi9gutwjMAvXFyF0aKRfJ-torv'
-TOKEN = 'CfDJ8ITWE7ESNs9CisY7Oszq6gY8VndRKnspFg21nD26u_k9dpcC58KovTkE--3ld85EZJQh51NHHdLU7dh7qguOoFjCciR3H02qeuz00OlvORJb8_oUam0Hns6fhrVepRXcP6wvpmSkut-8QaFZyPPkeD9Ow8nKCEMzbj4Zn9D6P_wWK8pkZE9By-PT1WKu3FfILA'
+#TMPCookie = ''
+#TMPToken = ''
+ANTIFORGERY = ''
+COOKIES = ''
+TOKEN = ''
 CDH = '1728238247'
 DIAGNOSTIC = 'false'
 FUNCTIONAL = 'false'
@@ -13,7 +13,7 @@ LEGALNOTICES = '1'
 TENANT = 'jwpub'
 
 #TMPCookie = f'tenant={TENANT}; .AspNetCore.Antiforgery.JT4JW0RaUoo={ANTIFORGERY}; .AspNetCore.Cookies={COOKIES}; cdh.session.expiry={CDH}; legalNoticesClient-accepted-notice%3Acookie-consent={LEGALNOTICES}; cookieConsent-STRICTLY_NECESSARY={NECESSARY}; cookieConsent-FUNCTIONAL={FUNCTIONAL}; cookieConsent-DIAGNOSTIC={DIAGNOSTIC}; cookieConsent-USAGE={USAGE}; '
-TMPCookie = 'tenant=jwpub; .AspNetCore.Antiforgery.9gwqmnbXwPM=CfDJ8ITWE7ESNs9CisY7Oszq6gbXJDWjaRpF_55GpWYDFJwk6N4GrR3ZOB_AIqJpKtB9uNUrXnDjqVk1BtEPS3FDqacCE8OTd9vG4szPnizycV2jWjUYRl1WjjC0ci6T65Fz8sS_iM9pnl-ojiqyG62Kw-0; .AspNetCore.Cookies=CfDJ8ITWE7ESNs9CisY7Oszq6gaIEFIcJ_vzOi-sjVX9Dlu7xOXcd248BRNpw1DIiL5FW8w57DiGUVaAyqSyvjuTKQ7fAJ08w-bDgQ9eqh7owTi-hkxzBvGmwdw5JtOEpgsWTd2W9MU4MqYiZ8sUgyKgO2A5PQ0-2ujvsEBQeP3i1St2yeyxYAVUFRXkvrSF9K9QNRJbzNf_IQWWUgWUkRt_ATSLv9vBBZ7HNFYUq0AFB2PvHg-xkjfqrL3QQsA6WG7chO_1NmsxuWT_LLP_RMj9QbccbzUj8lY5rVlusU0CTuLS; XSRF-TOKEN=CfDJ8ITWE7ESNs9CisY7Oszq6gY8VndRKnspFg21nD26u_k9dpcC58KovTkE--3ld85EZJQh51NHHdLU7dh7qguOoFjCciR3H02qeuz00OlvORJb8_oUam0Hns6fhrVepRXcP6wvpmSkut-8QaFZyPPkeD9Ow8nKCEMzbj4Zn9D6P_wWK8pkZE9By-PT1WKu3FfILA; cdh.session.expiry=1728246788; legalNoticesClient-accepted-notice%3Acookie-consent=1; cookieConsent-STRICTLY_NECESSARY=true; cookieConsent-FUNCTIONAL=false; cookieConsent-DIAGNOSTIC=false; cookieConsent-USAGE=false'
+TMPCookie = ''
 TMPToken = TOKEN
 
 
