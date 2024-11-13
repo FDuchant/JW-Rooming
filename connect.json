@@ -1,0 +1,12 @@
+{
+    "python": {
+      "version": "3.8",
+      "pip": true,
+      "requirements": "requirements.txt"
+    },
+    "logging": {
+      "level": "INFO",
+      "stdout": true,
+      "stderr": true
+    }
+  }
